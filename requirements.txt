@@ -4,7 +4,7 @@ astunparse==1.6.3
 
 
 
-bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
+
 cachetools==4.2.2
 certifi==2020.12.5
 cffi @ file:///C:/ci/cffi_1613247279197/work
